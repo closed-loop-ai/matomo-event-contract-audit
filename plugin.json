@@ -2,10 +2,10 @@
   "name": "EventContractAudit",
   "version": "0.1.0",
   "description": "Compare expected category/action pairs with a selected Matomo Events report.",
-  "license": "GPL v3+",
+  "license": "GPL-3.0+",
   "homepage": "https://github.com/closed-loop-ai/matomo-event-contract-audit",
   "authors": [{"name": "ClosedLoop AI", "homepage": "https://closedloop.sh/"}],
-  "keywords": ["events", "tracking plan"],
+  "keywords": ["events", "tracking-plan"],
   "require": {"matomo": ">=6.0.0,<7.0.0", "php": ">=8.1.0"},
   "wordpress-compatible": false
 }
