@@ -1,0 +1,8 @@
+# Changelog
+
+## 0.1.0
+
+- Compare exact expected category/action pairs with one native Matomo Events report.
+- Return deterministic JSON, native counts, explicit bounded/incomplete coverage and indeterminate unseen pairs.
+- Enforce native site access and reject malformed or duplicate plans.
+- Provide a local console command without a remote client or HTTP endpoint.
